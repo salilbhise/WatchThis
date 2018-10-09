@@ -1,4 +1,4 @@
-#Project 1 Concept: "What Should I Watch?" (Title)
+# Project 1 Concept: "What Should I Watch?" (Title)
 
 Users will participate in a questionare.
 
@@ -12,7 +12,7 @@ Final screen will illustrate series of results. Results will show genres interes
 
 The link for Trello: https://trello.com/b/qEqq5nbi/uthou201808-project-1-movie-show-finder
 
-Project 1 Requirements
+# Project 1 Requirements
 
 3 ways to automatically fail Project 1:
 ^ You need to make commits to show proof of work for progress
