@@ -1,4 +1,4 @@
-Project 1 Concept: "What Should I Watch?" (Title)
+#Project 1 Concept: "What Should I Watch?" (Title)
 
 Users will participate in a questionare.
 
