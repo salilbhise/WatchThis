@@ -4,7 +4,7 @@ Users interact with the app through a series of questions that narrow down what 
 
 Trello Board: https://trello.com/b/qEqq5nbi/uthou201808-project-1-movie-show-finder
 
-# Project 1 Requirements
+# Project 1 Requirements:
 
 3 ways to automatically fail Project 1:
 ^ You need to make commits to show proof of work for progress
