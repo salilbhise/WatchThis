@@ -1,4 +1,4 @@
-# Project 1 Concept: "What Should I Watch?" (Title)
+# Project 1 Concept: "WatchThis!" (Title)
 
 Users interact with the app through a series of questions that narrow down what they should watch using The Movie DB API. Questions will include categories like Show/Movie, Genre, Decade, etc. We will use GIPHY API on the results page to add gifs related to their movie or sho. 
 
