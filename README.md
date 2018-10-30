@@ -6,9 +6,7 @@ Trello Board: https://trello.com/b/qEqq5nbi/uthou201808-project-1-movie-show-fin
 
 # Project 1 Requirements:
 
-**Project 1 is all about putting all the skills we have learned to the test. You are the masters if your own destiny for projects. Push yourself, and prove what you know.**
-
-## Coding Requirements: 
+## Coding: 
 - No commits 24 hours prior to presentation. No code changes 24 hours before. You should be working on the actual presentation at this time. 
 - Use 2 APIs (pull information from 2 APIs and provide a new set of information)
 - Must use AJAX to pull data
@@ -23,7 +21,7 @@ Trello Board: https://trello.com/b/qEqq5nbi/uthou201808-project-1-movie-show-fin
 - Nice to have: Utilize Firebase for Persistent Data Storage 
 - Mobile responsive
 
-## Presentation Requirements: 
+## Presentation: 
 - 10 minute presentation 
 - Every team member will speak during presentations 
 - Explain application’s concept
