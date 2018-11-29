@@ -2,6 +2,8 @@
 
 Users interact with the app through a series of questions that narrow down what they should watch using The Movie DB API. Questions will include categories like Show/Movie, Genre, Decade, etc. We will use GIPHY API on the results page to add gifs related to their movie or show, and include a field to submit their email for future login and list builder.  
 
+Team Link: https://mig9tx.github.io/WatchThis/
+
 Trello Board: https://trello.com/b/qEqq5nbi/uthou201808-project-1-movie-show-finder
 
 # Project 1 Requirements:
