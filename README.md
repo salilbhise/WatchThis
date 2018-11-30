@@ -6,6 +6,8 @@ Original Project Link: https://mig9tx.github.io/WatchThis/
 
 Trello Board: https://trello.com/b/qEqq5nbi/uthou201808-project-1-movie-show-finder
 
+Team Members: Miguel Trujillo, Alijan Shiraliyev, Richard Vargas, and Salil Bhise. 
+
 # Project 1 Requirements:
 
 ## Coding: 
