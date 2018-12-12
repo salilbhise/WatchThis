@@ -35,3 +35,7 @@ Categories:
 Choices: 
 
 ![alt text](http://i66.tinypic.com/bd5b8.png)
+
+Synopsis and GIFs:
+
+![alt text](http://i65.tinypic.com/29c9ul4.png)
