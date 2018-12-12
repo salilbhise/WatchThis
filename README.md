@@ -2,7 +2,7 @@
 
 ## WatchThis!
 
-An application using JSON data from [The Movie DB](https://www.themoviedb.org/documentation/api) API that helps users choose a Movie or TV Show quickly and efficiently based off answers provided in a fun little survey. We take the trouble out of finding something to watch when it's time to #netflixandchill.  
+An application using JSON data from [The Movie DB](https://www.themoviedb.org/documentation/api) API that helps users choose a  Show or Movie to watch quickly and efficiently based off answers provided in a fun little survey. Our solution takes the trouble out of finding something to watch when it's time to #netflixandchill.  
 
 ## Technology and Concepts 
 User Input Validation, The Movie DB API, Giphy API, AJAX, Bootstrap
