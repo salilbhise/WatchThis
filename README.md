@@ -28,4 +28,7 @@ Movie or TV Show:
 
 ![alt text](http://i68.tinypic.com/15pmrk7.png)
 
+Categories:
+
+![alt text](http://i63.tinypic.com/rhtqmf.png)
 
