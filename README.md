@@ -32,3 +32,6 @@ Categories:
 
 ![alt text](http://i63.tinypic.com/rhtqmf.png)
 
+Choices: 
+
+![alt text](http://i66.tinypic.com/bd5b8.png)
