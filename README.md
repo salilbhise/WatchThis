@@ -19,10 +19,13 @@ https://mig9tx.github.io/WatchThis/
 ## Future Development 
 
 ## Preview
-Start:
+
+Start
+
 ![alt text](http://i66.tinypic.com/2rfq839.png)
 
-Movie or TV Show:
+Movie or TV Show
+
 ![alt text](http://i65.tinypic.com/2uz5u74.png)
 
 
