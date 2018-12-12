@@ -15,8 +15,10 @@ User Input Validation, The Movie DB API, Giphy API, AJAX, Bootstrap
 
 ## Original Deployment
 https://mig9tx.github.io/WatchThis/
+- [Project Board](https://trello.com/invite/b/qEqq5nbi/6d74664a5339e85f85ca0a466f293ffd/uthou201808-project-1-movie-show-finder)
 
 ## Future Development 
+Ability to save favorites, back button, more specific recommendations based of user history, update UI/UX
 
 ## Preview
 
