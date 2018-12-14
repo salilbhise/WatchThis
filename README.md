@@ -2,10 +2,10 @@
 
 ## WatchThis! :tv:
 
-An application using JSON data from [The Movie DB](https://www.themoviedb.org/documentation/api) API that helps users choose a  Show or Movie to watch quickly and efficiently based off answers provided in a fun little survey. Our solution takes the trouble out of finding something to watch when it's time to #netflixandchill.  
+An application using JSON data from The Movie DB that helps users choose a Show or Movie to watch quickly and efficiently based off answers provided in a fun little survey. Our solution takes the trouble out of finding something to watch when it's time to #netflixandchill.  
 
 ## Technology and Concepts 
-User Input Validation, The Movie DB API, Giphy API, AJAX, Bootstrap
+User Input Validation, [The Movie DB API](https://www.themoviedb.org/documentation/api), [Giphy API](https://developers.giphy.com/), AJAX, [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 ## Team Members
 - [Miguel Trujillo](https://github.com/mig9tx)
@@ -19,7 +19,7 @@ https://mig9tx.github.io/WatchThis/
 - [Project Board](https://trello.com/invite/b/qEqq5nbi/6d74664a5339e85f85ca0a466f293ffd/uthou201808-project-1-movie-show-finder)
 
 ## Future Development 
-Ability to save favorites, back button, more specific recommendations based of user history, update UI/UX
+Ability to save favorites, back button, more specific recommendations based off user history, update UI/UX
 
 ## Preview
 
